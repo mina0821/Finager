@@ -1,0 +1,9 @@
+COMP SCI 2XB3
+
+Team members:
+Suri Jia 400013552 Programmer, Tester
+Mingnan Su 400016478 Programmer, Web developer, Leader, Scrum manager
+Jiuwei Wang 400061882 Programmer, Documentation
+Yang Wang 400072652 Programmer, Tester
+
+The fact that the work being submitted by me is my group work
